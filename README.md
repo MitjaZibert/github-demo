@@ -1,3 +1,5 @@
 # Demo REPO
 
-Demo project from SDS course
+Demo project from SDS Git & Github course
+
+## Learning project
